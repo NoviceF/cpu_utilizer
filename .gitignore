@@ -1,0 +1,16 @@
+.git/
+.svn/
+x64/
+ipch/
+Debug/
+Release/
+*.opensdf
+*.swp
+*.obj
+*.7z
+*.pdb
+*.*log
+*.pch
+*.sdf
+*.dll
+*.lib
